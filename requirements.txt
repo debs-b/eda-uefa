@@ -1,0 +1,6 @@
+pandas
+matplotlib
+seaborn
+jupyter
+huggingface_hub
+datasets
