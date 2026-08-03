@@ -7,7 +7,7 @@ Este repositorio contem o material da aula sobre analise exploratoria de dados d
 - `*_aula.ipynb`: O notebook versao estudante (sem saidas) para acompanhar a aula passo a passo.
 
 ## Como usar
-Os dados necessarios para esta analise estao hospedados no Hugging Face da organizacao debs-b. Voce pode baixar programaticamente usando a biblioteca `datasets` ou o `pandas`.
+Os dados necessarios para esta analise estao hospedados no Kaggle. Voce pode baixar programaticamente usando a biblioteca `kagglehub` ou baixar manualmente do link fornecido nos notebooks.
 
 Consulte os notebooks para ver os comandos exatos de importacao dos dados.
 
